@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generated": "2026-09-13T12:59:16+00:00",
+  "profiles": [
+    {
+      "id": "desktop-default-g502-wireless",
+      "name": "Desktop: Default",
+      "author": "silvan",
+      "description": "Four DPI stages (400/800/1600/2400) with per-zone lighting on the DPI strip and the logo. A sensible starting point for a G502 LIGHTSPEED.",
+      "device": {
+        "modelId": "g502_wireless",
+        "productIds": [
+          16511,
+          49293
+        ],
+        "displayName": "G502 LIGHTSPEED",
+        "kind": "mouse"
+      },
+      "application": null,
+      "path": "profiles/g502_wireless/desktop-default.json",
+      "macroCount": 0,
+      "assignmentCount": 1,
+      "dpiStages": [
+        400,
+        800,
+        1600,
+        2400
+      ],
+      "hasLighting": true,
+      "updated": "2026-09-13"
+    }
+  ]
+}
