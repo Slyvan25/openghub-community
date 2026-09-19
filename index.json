@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-09-13T12:59:16+00:00",
+  "generated": "2026-09-19T11:44:28+00:00",
   "profiles": [
     {
       "id": "desktop-default-g502-wireless",
@@ -28,6 +28,31 @@
       ],
       "hasLighting": true,
       "updated": "2026-09-13"
+    },
+    {
+      "id": "rocket-league-g923",
+      "name": "Rocket League: Wheel as controller",
+      "author": "silvan",
+      "description": "Rocket League has no wheel support, so this profile turns on OpenGHub's gamepad mode: the G923 shows up as an Xbox 360 controller with steering on the left stick, accelerator and brake on the triggers, cross/circle/square/triangle as A/B/X/Y (jump, boost, powerslide, ball cam on the default bindings), paddles as the bumpers and Share/Options as Back/Start. The range is 360\u00b0 with a firm 60% centering spring so the wheel behaves like a self-centering stick.",
+      "device": {
+        "modelId": "g923_ps4",
+        "productIds": [
+          49767,
+          49766
+        ],
+        "displayName": "G923 Racing Wheel",
+        "kind": "wheel"
+      },
+      "application": {
+        "id": "fe34ed5b-3bb7-43ba-a3b5-2bf5433301b2",
+        "name": "Rocket League"
+      },
+      "path": "profiles/g923_ps4/rocket-league.json",
+      "macroCount": 0,
+      "assignmentCount": 0,
+      "dpiStages": [],
+      "hasLighting": false,
+      "updated": "2026-09-19"
     }
   ]
 }
