@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-09-19T11:44:28+00:00",
+  "generated": "2026-09-21T09:02:15+00:00",
   "profiles": [
     {
       "id": "desktop-default-g502-wireless",
@@ -27,7 +27,7 @@
         2400
       ],
       "hasLighting": true,
-      "updated": "2026-09-13"
+      "updated": "2026-09-21"
     },
     {
       "id": "rocket-league-g923",
@@ -52,7 +52,7 @@
       "assignmentCount": 0,
       "dpiStages": [],
       "hasLighting": false,
-      "updated": "2026-09-19"
+      "updated": "2026-09-21"
     }
   ]
 }
